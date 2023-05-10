@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeTasks", "LeetCodeTasks\LeetCodeTasks.csproj", "{5A60DB2D-2235-4819-89EE-015659B946B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{46C88A1E-7A43-4E3F-8FFD-D3B898F92F63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A6EC0B5D-472F-4BFB-AC31-CDD6CE9D439A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{5A60DB2D-2235-4819-89EE-015659B946B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A60DB2D-2235-4819-89EE-015659B946B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A60DB2D-2235-4819-89EE-015659B946B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{46C88A1E-7A43-4E3F-8FFD-D3B898F92F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46C88A1E-7A43-4E3F-8FFD-D3B898F92F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46C88A1E-7A43-4E3F-8FFD-D3B898F92F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46C88A1E-7A43-4E3F-8FFD-D3B898F92F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EC0B5D-472F-4BFB-AC31-CDD6CE9D439A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EC0B5D-472F-4BFB-AC31-CDD6CE9D439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EC0B5D-472F-4BFB-AC31-CDD6CE9D439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EC0B5D-472F-4BFB-AC31-CDD6CE9D439A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

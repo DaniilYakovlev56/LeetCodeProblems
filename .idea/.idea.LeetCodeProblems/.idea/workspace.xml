@@ -4,7 +4,15 @@
     <projectFile>TwoSum/TwoSum.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4fafc3-6af0-4e80-89b5-4d0b66899826" name="Changes" comment="" />
+    <list default="true" id="ea4fafc3-6af0-4e80-89b5-4d0b66899826" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeProblems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/Solution.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/Solution.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/bin/Debug/TwoSum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/bin/Debug/TwoSum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/bin/Debug/TwoSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/bin/Debug/TwoSum.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/TwoSum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/TwoSum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoSum/obj/Debug/TwoSum.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TwoSum/obj/Debug/TwoSum.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +66,7 @@
       <updated>1683778901420</updated>
       <workItem from="1683778909907" duration="3000" />
       <workItem from="1683783338590" duration="20000" />
-      <workItem from="1684174360080" duration="1891000" />
+      <workItem from="1684174360080" duration="3806000" />
     </task>
     <servers />
   </component>
@@ -85,30 +93,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/TwoSum/Solution.cs</url>
-          <line>9</line>
-          <properties documentPath="D:\Source\LeetCodeProblems\TwoSum\Solution.cs" initialLine="6" containingFunctionPresentation="method 'TwoSum'">
+          <url>file://$PROJECT_DIR$/TwoSum/Program.cs</url>
+          <line>8</line>
+          <properties documentPath="D:\Source\LeetCodeProblems\TwoSum\Program.cs" initialLine="8" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="141" />
+              <option value="221" />
             </startOffsets>
             <endOffsets>
-              <option value="174" />
+              <option value="222" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/TwoSum/Solution.cs</url>
-          <line>16</line>
-          <properties documentPath="D:\Source\LeetCodeProblems\TwoSum\Solution.cs" initialLine="14" containingFunctionPresentation="method 'TwoSum'">
-            <startOffsets>
-              <option value="346" />
-            </startOffsets>
-            <endOffsets>
-              <option value="357" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             var solution = new Solution();
-            solution.TwoSum(new []{2,7,11,15}, 9);
+            var res = solution.TwoSum(new []{2,5,5,11}, 10);
         }
     }
 }
